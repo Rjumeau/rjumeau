@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Romain Jumeau</h1>
 <h3 align="center">A new passenger of the Code's train 🚃</h3>
 
-- 🔭 I’m currently working on [Newsboard](https://newsboard-lewagon.herokuapp.com/)
+- 🔭 I’m currently working on [Newsboard](https://newsboard-lewagon.herokuapp.com/) (mobile version)
 
 - 🌱 I’m currently learning **React & NodeJs**
 
